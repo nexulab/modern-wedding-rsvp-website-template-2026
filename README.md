@@ -86,5 +86,3 @@ Currently, the RSVP form uses a mock front-end submission to demonstrate the loa
 This project is licensed under the Creative Commons Zero v1.0 Universal (CC0 1.0) license.
 
 You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. See the LICENSE file for more details.
-
-(Attribution is appreciated but never required!)
